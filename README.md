@@ -2,6 +2,7 @@
 
 
 - 🌱 Eu estou estudando Html, Css & JavaScript
+- Estudando Análise e Desenvolvimento de Sistemas na Uninassau. 
 - 😄 Pronouns: Ele/dele
 - Sempre em busca de conhecimentos...
 <div style="display: inline_block">
