@@ -1,4 +1,4 @@
-### Hi I Am Rafael Carneiro 👋
+### Hi I Am Rafael Carneiro <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px">
 
 
 - 🌱 Eu estou estudando Html, Css & JavaScript
