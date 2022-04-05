@@ -16,5 +16,6 @@
  <h1>Minhas Redes Sociais </h1>
  <a href="https://www.linkedin.com/in/rafael-carneiro-8bb629aa/"><img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
  <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
+ <span class="iconify" data-icon="logos:discord"></span>
 </div>
 
