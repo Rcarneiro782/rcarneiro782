@@ -1,8 +1,9 @@
 ### Hi I Am Rafael Carneiro <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="50px">
 
 
-- 🌱 Eu estou estudando Html, Css & JavaScript
-- Estudando Análise e Desenvolvimento de Sistemas na Uninassau.📚 
+- 🌱 Eu estou estudando as tecnologias Html & Css e as stacks JavaScript, Python, Ruby e C#.
+- Formado em  Análise e Desenvolvimento de Sistemas na Uninassau Pe.📚
+- Estudante de Redes de Computadores na instituição Anhanguera 📚.
 - 😄 Pronouns: Ele/dele
 - Sempre em busca de conhecimentos...
 <div style="display: inline_block">
