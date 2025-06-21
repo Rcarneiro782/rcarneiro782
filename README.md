@@ -17,7 +17,7 @@
  
  <div style="display:flex" >
  <h1>Minhas Redes Sociais </h1>
- <a href="https://www.linkedin.com/in/rafael-carneiro-8bb629aa/"><img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+ <a href="https://www.linkedin.com/in/rafael-carneiro-60676b351/"><img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
  <img align="center" height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" />
  <a href="https://discord.com/channels/@me" target="_blank"><img align="center"  height="30" width="60" src="https://img.shields.io/badge/-Discord-424242?style=flat&logo=discord" /></a>
 </div>
